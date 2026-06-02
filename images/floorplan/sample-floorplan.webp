@@ -1,0 +1,1441 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MVN75GG7');</script>
+<!-- End Google Tag Manager -->
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Max Estate 361 - 3 & 4 BHK Apartments in Dwarka Expressway, Gurugram</title>
+<meta name="description" content="Max Estate 361 offering 3 & 4 BHK apartments in Dwarka Expressway, Gurugram. check property price, floor plans & amenities.">
+<link rel="canonical" href="https://www.maxestate361gurugram.com/">
+
+<link rel="icon" href="favicon.png" type="image/x-icon">
+
+<!-- Preconnect -->
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+
+<!-- Fonts preload -->
+<link rel="preload" href="./assets/fonts/Roboto-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="./assets/fonts/Roboto-Bold.woff2" as="font" type="font/woff2" crossorigin>
+
+<!-- Hero image preload -->
+<!-- Hero image preload -->
+
+<link
+  rel="preload"
+  as="image"
+  href="./assets/img/deskban1.webp"
+  media="(min-width: 769px)"
+  fetchpriority="high"
+  imagesrcset="./assets/img/deskban1.webp"
+>
+
+<link
+  rel="preload"
+  as="image"
+  href="./assets/img/mobban1.webp"
+  media="(max-width: 768px)"
+  fetchpriority="high"
+  imagesrcset="./assets/img/mobban1.webp"
+>
+
+<!-- Main CSS -->
+<link rel="preload" href="./assets/css/pure_style.css" as="style">
+<link rel="stylesheet" href="./assets/css/pure_style.css">
+
+<!-- Chat CSS (NON-BLOCKING) -->
+<link rel="stylesheet"
+      href="./assets/css/chatv25.css"
+      media="print"
+      onload="this.media='all'">
+
+<style>
+:root{
+  --colorPrimary:#c66647;
+  --colorSecondary:#cc8b00;
+  --colorBtn:#ffffff;
+
+  /* restored from old CSS */
+  --bgDesk:url('../img/deskban1.webp');
+  --bgMob:url('../img/mobban1.webp');
+}
+
+/* ================= CLS FIX ================= */
+main.pload{
+  min-height:720px;
+}
+@media(max-width:768px){
+  main.pload{min-height:560px;}
+}
+
+/* ================= Fonts ================= */
+@font-face{
+  font-family:'Roboto';
+  src:url('./assets/fonts/Roboto-Regular.woff2') format('woff2');
+  font-weight:400;
+  font-display:swap;
+}
+@font-face{
+  font-family:'Roboto';
+  src:url('./assets/fonts/Roboto-Bold.woff2') format('woff2');
+  font-weight:700;
+  font-display:swap;
+}
+
+body{
+  font-family:Roboto,system-ui,sans-serif;
+  font-size-adjust:0.52;
+}
+
+/* Prevent small text shift */
+small{
+  display:inline-block;
+  line-height:20px;
+  min-height:20px;
+}
+
+/* ================= Loader ================= */
+#loader{
+  width:100vw;
+  height:100vh;
+  position:fixed;
+  inset:0;
+  background:#fff;
+  z-index:1040;
+}
+
+.loader-text{
+  display:block;
+  text-align:center;
+  color:#d7d7d7;
+  font-family:Roboto,sans-serif;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+
+/* Loader animation (kept optional) */
+@keyframes loader{
+  0%{filter:grayscale(0);}
+  50%{filter:grayscale(100%);}
+  100%{filter:grayscale(0);}
+}
+
+/* ================= UI FIXES ================= */
+.iti__flag-container{display:none;}
+
+section#mymap{height:540px;}
+
+button.btn.btn-sm.btn-outline-info.sectio-bro-btn.overflow-hidden.enqModal,
+button.btn.btn-info.micro-form-btn.effetMoveGradient.submitBtn.enqModal{
+  margin-bottom:15px;
+}
+
+input#submitBtn{margin:15px 0;}
+
+.textcolor{color:#fff;}
+
+a.drift-open-chat{color:#fff;}
+
+p{text-align:justify;}
+
+select.my_country_name.form-control.rounded-0.micro-form-field{
+  float:left;
+  width:40%;
+  padding-left:8px;
+}
+
+input#modal_my_mobile{
+  width:60%;
+}
+
+/* Thank you page */
+.thankyou-text p{
+  text-align:center !important;
+}
+
+/* ================= Mobile Brochure ================= */
+@media (max-width:768px){
+  .download-brochure .mob_brochure img{
+    max-height:144px;
+    height:auto;
+    width:auto;
+    position:fixed;
+    left:5px;
+    top:35%;
+    z-index:999;
+  }
+}
+
+</style>
+
+        <!-- Drift Start -->
+        
+        <link rel="stylesheet" href="./assets/css/chatv25.css" />
+
+<!-- Small Chatbot -->
+<div class="chat-pop-sm">
+    <button id="chat-pop-sm-close" type="button" class="close" data-dismiss="chat-pop-sm" aria-label="Close">
+        <span aria-hidden="true">×</span>
+    </button>
+    <div class="chat-pop-txt">
+        “Hey, I'm Pooja Agarwal!“ <strong>How can I help you?</strong>
+    </div>
+    <button class="chat-pop-sm-btn openchat" type="button" id="chat-square-small">Let's Chat</button>
+</div>
+<!-- Small Chatbot -->
+
+<!-- Chatbot -->
+<div id="chat-square" class="btn"></div>
+<div id="chat-close" class="btn chat-box-toggle">
+    <div class="close-img"></div>
+</div>
+
+<div class="chat-wrapper">
+    <div class="chat-header">
+        <div class="chat-header-photo">
+            <span class="active-circle"></span>
+        </div>
+        <div class="chat-header-name">Pooja Agarwal</div>
+    </div>
+
+    <div class="chat-box-body">
+        <div class="chat-box-overlay"></div>
+        <div class="chat-logs">
+            <div id="hb-chat-bot">
+                <div class="chat-container">
+                    <div class="chat-messages-time"></div>
+                    <div class="chat-messages-container"></div>
+                    <div class="chat-actions-container"></div>
+                    <div class="chat-footer"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Chatbot -->
+
+
+</head>
+    <body data-spy="scroll" data-target="#navbarNav">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVN75GG7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+      <header class="micro-nav fixed-top pload">
+            <nav class="navbar navbar-expand-lg navbar-light bg-white micro-navbar">
+                <a class="navbar-brand" href="/" ><img alt="Max Estate 361 Logo" src="./assets/img/logo.svg" class="logo" /></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav nav-fill">
+                        <li class="nav-item"><a class="nav-link" href="#home"><i class="mi mi-home nav-icon"></i><span class="d-sm-inline d-md-none"> Home</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="#pricing"><i class="mi mi-price nav-icon"></i> Price</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#sitefloorplan"><i class="mi mi-siteplan nav-icon"></i> Site &amp; Floor Plan</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#amenities"><i class="mi mi-ami nav-icon"></i> Amenities</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#gallery"><i class="mi mi-gallery nav-icon"></i> Gallery</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#address_section"><i class="mi mi-location nav-icon"></i> Location</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#sitevisit"><i class="mi mi-sitevisit nav-icon"></i> Virtual Site Visit </a></li>
+<li class="nav-item overflow-hidden"><a class="nav-link enqModal" href="#" data-form="md" data-title="Download brochure" data-btn="Download now" data-enquiry="Download Brochure Toolbar" data-redirect="brochure" data-redirect-file="brochure.pdf" data-toggle="modal" data-target="#enqModal" > <i class="mi mi-download nav-icon d-inline-block animated slideInDown infinite"></i> Download Brochure </a> </li> </ul>
+                </div>
+            </nav>
+        </header>
+<main class="pload">
+    <style> .card-d-custom{ width: 95%; justify-content: center; text-align: center; margin: 0 auto 15px;  } </style>
+ <div id="home" class="carousel slide micro-main-slider" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#home" data-slide-to="0" class="active"></li>
+            <li data-target="#home" data-slide-to="1"></li>
+        </ol>
+        
+        <div class="carousel-inner blockimg" id="blockimg">
+                    <!-- LCP IMAGE (FIRST VISIBLE SLIDE) -->
+            <div class="carousel-item active">
+                <div class="desktopview"> <img src="./assets/img/deskban1.webp" alt="Max Estate 361 Overview 1" width="1200" height="400" class="d-block micro-main-slider-img" fetchpriority="high" decoding="async" /> </div>
+            </div>
+            <!-- NON-LCP IMAGE -->
+            <div class="carousel-item">
+                <div class="desktopview"> <img src="./assets/img/deskban2.webp" alt="Max Estate 361 Overview 1" width="1200" height="720" class="d-block micro-main-slider-img" fetchpriority="high" decoding="async" loading="eager" /> </div>
+            </div>
+                        </div>
+
+    </div>
+     <div class="info-box overflow-hidden">
+        <!--<span class="pro-status">Booking Open: Limited Time Only</span>-->
+        <div class="wrapper offer-bg-animation">
+<span class="zoom-in-zoom-out padding10">Booking Open: Limited Time Only</span>
+</div>
+<h1 class="pro-title">
+    Max Estate 361 <br> Sector 36A, Gurugram
+    </h1> 
+<div style="flex-wrap: wrap; display: inline-flex;padding-bottom: 10px;">
+            <span class="pro-add">At Gurugram, Haryana</span>
+            <span class="pro-dev">by Max Estates</span>
+        </div>
+        <div style="margin: -7px 0px 13px;"><img alt="Google Review" width="auto" height="auto" src="./assets/img/45-47.webp" fetchpriority="low" style="margin-right: 10px; margin-top: -5px;" /><span style="font-size: 12px; color: #717376; "><span style="font-size:17px;">4.6 </span>Stars  30 Reviews</span></div>
+       <div class="card-d card-d-custom">
+        <div>
+            <span class="heading2">Land Parcel </span>
+            <span class="heading1">18.23 Acres</span>
+        </div>
+        <!--<div>-->
+        <!--    <span class="heading2">Floors </span>-->
+        <!--    <span class="heading1">37 Storeys</span>-->
+        <!--</div>   -->
+        <div>
+            <span class="heading2">Possession </span>
+            <span class="heading1">August 2030</span>
+        </div>   
+        </div>
+             <span class="d-block mb-1 text-capitalize of-box offer-bg-animation">
+              <span class="offer-text-outer"> <span class="offer-text"> 
+             Guaranteed Spot Booking Offers<br/> Get Flexi Payment Plans <br/> Early Bird Discount Available</span>
+             </span>  </span> 
+        <span class="d-block" style="font-size: 14px; width: 100%; background: transparent; font-weight: bold; text-align: center; color: #fff;">
+        </span>
+         <span class="pro-tag-line"> Luxurious<b>  3 & 4 BHK </b>  Starts At</span> <span class="pro-price">₹ 1.80 Cr <small style="font-size:16px;"> Onwards</small> </span>
+        <button
+            class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale"
+            data-form="lg"
+            data-title="Download Brochure"
+            data-btn="Download Now"
+            data-enquiry="Download Brochure Left Panel"
+            data-redirect="enquiry"
+            data-toggle="modal"
+            data-target="#enqModal" >
+            Download Brochure
+        </button>
+    </div>
+        <section class="section shadow-sm lazyload" id="overview">
+    <h2 class="d-block section-heading color-primary text-capitalize">Welcome to Max Estate 361</h2>
+    <p>Max Estate 361 presents palatial senior living residences in Sector 36A, Dwarka Expressway, Gurugram. It presents opulent and senior living-oriented 3 BHK and 4 BHK apartments. Elevate your living with these high-rise 4-side open homes. Experience a well-defined lifestyle with modern amenities like a modern healthcare club, 9 acres of land with green landscaped gardens, etc. There are a total of 6 high-rise buildings with 1000 units, which are provided with superior interiors and spacious layouts. You can access 5 elevators allotted per tower, a 3-level basement, etc. Other lavish amenities available onsite include a separate school entry, retail inside the society, CCTV, a swimming pool, a central sunken courtyard area, and a wrap-around balcony. Zig-zag placement of towers ensures ample privacy and exclusivity. The entire ground level is free from any vehicle movement, ensuring residents’ peace and privacy.
+</p>
+<p><span class="more-cont" style="display: none;"><span class="d-block">Social amenities and connectivity access are within a stone’s throw away from this locality. City Mall, Raheja Mall, Omax Mall, Starbucks, PVR Inox, Suraj PG Degree College, Medanta Hospital, Delhi Public School, the planned Global City, Ambience Mall, KR Mangalam University, McDonald's, KFC, Chaayos, Theobroma, Cyber City 2, Vision City, IICC, etc, are closer to the project. Proximity to Dwarka Expressway, the upcoming ISBT, Gurgaon Railway Station, Sector 56 metro station, Indira Gandhi International Airport, Sohna Road, Southern Peripheral Road, etc., enhances citywide connectivity. So, delve into an engaging and comfortable senior living experience in Max Estate 361, Sec 36A in Gurugram.
+</span></span> <a href="#!" class="btn btn-link btn-sm more">Read more</a></p>
+    <button
+        class="btn btn-info micro-form-btn effetMoveGradient enqModal download-brochure"
+        data-form="md"
+        data-title="Download Brochure"
+        data-btn="Download Now"
+        data-enquiry="Download Brochure Welcome Text"
+        data-redirect="brochure"
+        data-redirect-file="brochure.pdf"
+        data-toggle="modal"
+        data-target="#enqModal"
+    >
+<span class="d-inline-block mi mi-download mr-1 animated slideInDown infinite"></span> Download Brochure
+    </button>
+</section>    <section class="section shadow-sm lazyload" id="pricing">
+            <span class="section-link"></span> 
+ <h2 class="head text-capitalize">Max Estate 361 Pricing and Area</h2>
+	<div class="row">
+		<div class="col-md-8">
+			<table class="table table-striped table-borderless border micro-price-table table-pricing for-desktop">
+				<thead>
+					<tr>
+						<th scope="col" class="border border-bottom-0 mb-w">Type</th>
+						<th scope="col" class="border border-bottom-0 mb-w">Area</th>
+						<th scope="col" class="border border-bottom-0 border-right-0">Price</th>
+						<th scope="col"></th>
+					</tr>
+				</thead>
+				<tbody>
+				    <tr>
+				    	<td class="border border-left-0 border-top-0 border-bottom-0 price-type">3 BHK + Utility</td>
+						<td class="border border-left-0 border-top-0 border-bottom-0 price-carpet">3211 SqFt<small class="d-inline-block d-md-none">(Area)</small></td>
+						<td class="price-amt border border-left-0 border-top-0 border-bottom-0 price-carpet"><i class="mi mi-rs-light"></i> 1.80 Cr Onwards</td>
+						<td><button class="btn btn-sm btn-info effetGradient effectScale enqModal" data-form="lg" data-title="Send me costing details" data-btn="Send Now" data-enquiry="Price Breakup" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Price Breakup</button></td>
+					</tr>
+					<tr>
+				    	<td class="border border-left-0 border-top-0 border-bottom-0 price-type">4 BHK + Utility</td>
+						<td class="border border-left-0 border-top-0 border-bottom-0 price-carpet">4063 SqFt<small class="d-inline-block d-md-none">(Area)</small></td>
+						<td class="price-amt border border-left-0 border-top-0 border-bottom-0 price-carpet"><i class="mi mi-rs-light"></i> 8.50 Cr Onwards</td>
+						<td><button class="btn btn-sm btn-info effetGradient effectScale enqModal" data-form="lg" data-title="Send me costing details" data-btn="Send Now" data-enquiry="Price Breakup" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Price Breakup</button></td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<table class="table table-striped table-borderless border micro-price-table table-pricing for-mobile">
+				<thead>
+					<tr>
+						<th scope="col" class="border border-bottom-0 mb-w">Type</th>
+						<th scope="col" class="border border-bottom-0 mb-w">Area</th>
+						<th scope="col" class="border border-bottom-0 border-right-0">Price</th>
+						<th scope="col"></th>
+					</tr>
+				</thead>
+				<tbody>
+				    <tr>
+				    	<td class="border border-left-0 border-top-0 border-bottom-0 price-type">3 BHK + Utility</td>
+						<td class="border border-left-0 border-top-0 border-bottom-0 price-carpet">3211 SqFt</td>
+						<td class="price-amt border border-left-0 border-top-0 border-bottom-0 price-carpet"><i class="mi mi-rs-light"></i> 1.80 Cr Onwards</td>
+						<td><button class="btn btn-sm btn-info effetGradient effectScale enqModal" data-form="lg" data-title="Send me costing details" data-btn="Send Now" data-enquiry="Price Breakup" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Price Breakup</button></td>
+					</tr>
+					<tr>
+				    	<td class="border border-left-0 border-top-0 border-bottom-0 price-type">4 BHK + Utility</td>
+						<td class="border border-left-0 border-top-0 border-bottom-0 price-carpet">4063 SqFt</td>
+						<td class="price-amt border border-left-0 border-top-0 border-bottom-0 price-carpet"><i class="mi mi-rs-light"></i> 8.50 Cr Onwards</td>
+						<td><button class="btn btn-sm btn-info effetGradient effectScale enqModal" data-form="lg" data-title="Send me costing details" data-btn="Send Now" data-enquiry="Price Breakup" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Price Breakup</button></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="col-md-4">
+		    <span class="head text-capitalize mobile-only">Costsheet & Pricing Details of Max Estate 361</span>
+			<a href="#" class="text-decoration-none enqModal" data-form="lg"  data-title="Send me costing details" data-btn="Send Now" data-enquiry="Complete Costing Details" data-toggle="modal" data-target="#enqModal">
+				<div class="at-property-item shadow-sm border border-grey new-padding">
+					<div class="at-property-img lazyloaded" data-expand="-1"><img alt="costing sheet" data-sizes="auto" class="w-100 lazyautosizes ls-is-cached lazyloaded ls-inview"  sizes="304px" src='./assets/img/costing.jpg'>
+					<div class="at-property-overlayer"></div> <span class="btn btn-default at-property-btn">Enquire Now</span> </div>
+					<div class="new-bt"><div class="at-property-dis effetGradient new-border">Download Costing Details</div></div>
+				</div>
+			</a>
+		</div>
+	</div>
+</section>    <section class="section shadow-sm lazyload" id="sitefloorplan" data-script="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js " data-link="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+    <span class="section-link" ></span> 
+    <h2 class="head text-capitalize">Max Estate 361 Master Plan</h2> 
+    <!--<span class="d-block section-heading-sub text-capitalize">Master Plan</span>-->
+ <div class="masterplan-box">  
+    <a href="#" class="text-decoration-none enqModal" data-form="lg" data-title="Send me plan details" data-btn="Send Now" data-enquiry="Get Master Plan" data-redirect="enquiry" data-toggle="modal" data-target="#enqModal">
+        <div class="at-property-item mt-1 shadow-sm border border-grey new-padding">
+            <div class="at-property-img master-plan text-center">
+                <img alt="Master Plan" data-sizes="auto" class="lazyload " src="./assets/img/floorplan/masterplan.webp" />              
+                <div class="at-property-overlayer"></div>
+                <span class="btn btn-default at-property-btn">View Master Plan </span>
+            </div>
+            <div class="new-bt" style="margin-top: 20px;"><div class="at-property-dis effetGradient new-border">Download Masterplan</div></div>
+        </div>
+    </a>
+</div>
+</section>
+<section class="section shadow-sm lazyload" id="sitefloorplan2">
+<span class="d-block section-heading-sub text-capitalize"><h2 class="head text-capitalize">Max Estate 361 Floor Plan</h2></span>
+<button class="btn btn-sm btn-info effetGradient effectScale enqModal" data-form="lg" data-title="Send me plan details" data-btn="Send now" data-enquiry="Get Floor Plan" data-redirect="enquiry" data-toggle="modal" data-target="#enqModal">On Request</button>
+<!--<div class="row row-cols-2 row-cols-md-2 text-center">-->
+<!--    <div class="col-md-4 col-sm-6 col-12 new-div-box">-->
+<!--            <a href="#" class="text-decoration-none enqModal" data-form="lg" aria-label="Send me plan details" data-title="Send me plan details" data-btn="Send Now" data-enquiry="Get Floor Plan" data-redirect="enquiry" data-toggle="modal" data-target="#enqModal">-->
+<!--                <div class="at-property-item shadow-sm border border-grey mt-1">-->
+<!--                    <div class="at-property-img"><img alt="2 BHK 846-915 SqFt" data-sizes="auto" class="floor-plan-img blur lazyautosizes ls-is-cached lazyloaded ls-inview text-center" loading="lazy" src="./assets/img/floorplan/2bhk-846-915.webp" />-->
+<!--                      <div class="at-property-overlayer"></div><span class="btn btn-default at-property-btn" role="button">Enquire Now</span></div>-->
+<!--                    <div class="at-property-dis effetGradient"><i class="mi mi-download nav-icon d-inline-block animated slideInDown infinite"></i> 2 BHK 846-915 SqFt</div>-->
+<!--                </div>-->
+<!--            </a>-->
+<!--        </div>-->
+<!--    </div>-->
+</section>
+    <section class="section shadow-sm lazyload" id="amenities">
+    <span class="section-link" ></span> <div class="row">
+        <div class="col-md-8">
+            <h2 class="head text-capitalize">Amenities of Max Estate 361</h2>
+        </div>
+        <div class="col-md-4">
+            <button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale float-lg-right mx-sm-auto  d-none d-lg-block" data-form="lg" data-title="Download Amenities" data-btn="Send Now" data-enquiry="Download Amenities" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Download Amenities</button>
+        </div>
+    </div>
+    <div id="ami-3" class="ami-3 owl-carousel owl-theme">
+        <div class="item-wrp">
+            <div class="ami_sec"><img alt="Indoor Games Area" data-src="./assets/img/amenities/indoor_games_area.webp" loading="lazy" class="lazyload" fetchpriority="low" /><p>Indoor Games Area</p></div>
+            <div class="ami_sec"><img alt="Swimming Pool" data-src="./assets/img/amenities/swimming_pool.webp" loading="lazy" class="lazyload" fetchpriority="low"/><p>Swimming Pool</p></div>
+        </div>
+        <div class="item-wrp">
+            <div class="ami_sec"><img alt="Kid's Play Area" data-src="./assets/img/amenities/kids_play_area.webp" loading="lazy" class="lazyload" fetchpriority="low"/><p>Kid's Play Area</p></div>
+            <div  class="ami_sec"><img alt="Jogging Track" data-src="./assets/img/amenities/jogging_track.webp" loading="lazy" class="lazyload" fetchpriority="low"/><p>Jogging Track</p></div>
+        </div>
+        <div class="item-wrp">
+            <div class="ami_sec"><img alt="Gym" data-src="./assets/img/amenities/gym.webp" loading="lazy" class="lazyload" fetchpriority="low"/><p>Gym</p></div>
+           <div class="ami_sec"><img alt="Lifts" data-src="./assets/img/amenities/lifts.webp" loading="lazy" class="lazyload" fetchpriority="low"/><p>Lifts</p></div>
+        </div>
+        <div class="item-wrp">
+            <div class="ami_sec"><img alt="Banquet Hall" data-src="./assets/img/amenities/banquet_hall.webp" loading="lazy" class="lazyload" fetchpriority="low"/><p>Banquet Hall</p></div>
+            <div  class="ami_sec"><img alt="Multipurpose Sports Court" data-src="./assets/img/amenities/multipurpose_sports_court.webp" loading="lazy" class="lazyload" fetchpriority="low"/><p>Multipurpose Sports Court</p></div>
+        </div>
+    </div>
+    <div class="col-12 text-center">
+        <p></p>
+            <button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale float-lg-right mx-sm-auto d-lg-none" data-form="lg" data-title="Download Amenities" data-btn="Send Now" data-enquiry="Download Amenities" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Download Amenities</button></div>
+</section>
+     <section class="section shadow-sm lazyload" id="gallery">
+    <span class="section-link" ></span> 
+    <div class="row">
+        <div class="col-md-8"><h2 class="head text-capitalize">Gallery of Max Estate 361</h2></div>
+        <div class="col-md-4"><button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale float-lg-right mx-sm-auto  d-none d-lg-block" data-form="lg" data-title="Download Gallery" data-btn="Send Now" data-enquiry="Download Gallery" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Download Gallery</button></div>
+    </div>
+   <div class="row">
+        <div class="col-lg-3 col-md-4 col-sm-6 col-6 mb-2"><a data-fancybox="gallery-0" href="./assets/img/gallery/1.webp" aria-label="Gallery Image1"> <img alt="Gallery 1" data-src="./assets/img/gallery/1.webp" class="lazyload gallery-thumb" /> </a></div>
+        <div class="col-lg-3 col-md-4 col-sm-6 col-6 mb-2"><a data-fancybox="gallery-0" href="./assets/img/gallery/2.webp" aria-label="Gallery Image2"> <img alt="Gallery 2" data-src="./assets/img/gallery/2.webp" class="lazyload gallery-thumb" /> </a></div>
+        <div class="col-lg-3 col-md-4 col-sm-6 col-6 mb-2"><a data-fancybox="gallery-0" href="./assets/img/gallery/3.webp" aria-label="Gallery Image3"> <img alt="Gallery 3" data-src="./assets/img/gallery/3.webp" class="lazyload gallery-thumb" /> </a></div>
+        <div class="col-lg-3 col-md-4 col-sm-6 col-6 mb-2"><a data-fancybox="gallery-0" href="./assets/img/gallery/4.webp" aria-label="Gallery Image4"> <img alt="Gallery 4" data-src="./assets/img/gallery/4.webp" class="lazyload gallery-thumb" /> </a></div>
+    </div>
+    <div class="col-12 text-center">
+        <p></p>
+            <button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale float-lg-right mx-sm-auto d-lg-none" data-form="lg" data-title="Download Gallery" data-btn="Send Now" data-enquiry="Download Gallery" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Download Gallery</button>
+        </div>
+</section>    <style>
+iframe {width: 100%;height: 38vh;border: 2px solid #d7d7d7;}
+@media only screen and (max-width: 1024px) {iframe {width: 100%;height: 32vh;border: 2px solid #d7d7d7;}} 
+@media only screen and (max-width: 992px) {iframe {width: 100%;height: 18vh;border: 2px solid #d7d7d7;}} 
+@media only screen and (max-width: 800px) {iframe {width: 100%;height: 26vh;border: 2px solid #d7d7d7;}} 
+@media only screen and (max-width: 768px) {iframe {width: 100%;height: 20vh;border: 2px solid #d7d7d7;}}  
+@media only screen and (max-width: 500px) {iframe {width: 100%;height: 50vh;border: 2px solid #d7d7d7;}}  
+</style>
+<section id="address_section" class="section shadow-sm"> </section>     <section class="section shadow-sm lazyloaded" id="sitevisit">
+   <span class="section-link"></span>
+   <span class="head text-capitalize">Virtual Tour Request</span>
+   <a href="#" class="enqModal" data-form="lg" data-title="Virtual Site Visit" data-btn="Start Tour" data-enquiry="Virtual Site Visit
+" data-redirect="virtualtour" data-toggle="modal" data-target="#enqModal">
+     <div class="at-property-item my-2 pt-md-0">
+       <div class="at-property-img vsv-img lazyloaded" data-expand="-1">
+           <div class="d-block">
+                              
+               <img
+                  src="./assets/img/deskban2.webp"
+                  alt="Max Estate 361 Virtual Image"
+                  class="img-responsive"
+                  width="100%"
+                  loading="lazy"
+                  fetchpriority="low"
+                  decoding="async"
+                  style="max-width:100%;height:auto;"
+                >
+                 
+           </div>
+         <div class="vsv-text-bk">
+           <div class="vsv-text-bg">
+             <div class="vsv-icon lazyloaded"></div>
+             <span class="text-uppercase h1 font-weight-bold mb-0 d-none d-lg-block">Virtual Site Visit</span>
+             <span class="text-capitalize text-center d-none d-lg-block"> Max Estate 361 </span>
+           </div>
+         </div>
+       </div>
+     </div>
+     <span class="text-center d-block d-lg-none content-clr">Virtual Site visit</span>
+   </a>
+ </section>     <section class="section shadow-sm lazyload" id="developer">
+    <div class="d-block pt-2 pb-1 text-center"><img alt="Max Estate 361 Logo" src="./assets/img/logo.svg"  loading="lazy" style="max-width: 100%; height: 65px; display: inline-block;" /></div>
+    <div class="row">
+        <div class="col-md-8">
+           <span class="d-block section-heading-sub text-capitalize">About Max Estates</span>
+        </div>
+        <div class="col-md-4">
+            <div class="float-md-right  d-none d-lg-block">
+        <button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale drift-open-chat-desktop" data-form="lg" >
+            Chat with us
+        </button>
+    </div>
+        </div>
+    </div>
+    <p>Max Estates is the real estate development extension of Max Group. Since 2016, Max Estates has been an aspiring real estate firm that has built sustainable commercial and residential developments in the city. It mainly presents housing solutions in and around Delhi NCR, with a focus on well-being and experiential living. Max Estates is constantly in pursuit of emerging as the most desirable construction brand in real estate in NCR. It is solely driven by its motto to enhance the quality of life through its innovation and peaceful living spaces.
+</p>
+
+<span class="d-block section-heading-sub1 text-capitalize">RERA Information</span>
+    <span class="pro-rera text-center-mob"><span class="heading">RERA No</span> :  RC/REP/HARERA/GGM/860/592/2024/87</span>
+    
+<!--    <div class="row">-->
+<!--    <div class="col-md-3">-->
+<!--        <div class="rera-box">-->
+<!--            <div class="rera-img">-->
+<!--                <img src="./assets/img/qrcode/qr_7178.webp"  loading="lazy" style="max-width: 100%; height: 100px; display: inline-block;" alt="P51700077178"/>-->
+<!--            </div>-->
+<!--            <div class="rera-details">-->
+<!--            <p>Max Estate 361 MahaRERA - <b> P51700077178</b></p>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+   <span class="pro-rera text-center-mob">According to the RERA Act 2016 of the Government of India, all projects of the Max Estates including the Max Estate 361, are listed on the Government's RERA website under registered projects.</span>
+         <p></p>
+    <div class="float-lg-right mx-sm-auto d-lg-none text-center">
+        <button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale drift-open-chat-mobile" data-form="lg">
+           Chat with us.
+        </button>
+    </div>
+</section>
+<section style="text-align:justify;background:#f7f7f7 !important;" class="section shadow-sm lazyload" id="developer">
+<small>
+    <style>
+.newlist { list-style: none; line-height: 25px; padding-left: 22px; text-align: left; }
+.newlist li:before { content: '✓'; font-weight: 800;  margin-right: 10px;  font-size: 13px;  margin-left: -22px; }
+	</style>
+	<ul class="newlist">
+        <li>Project Registered under Government of India RERA Act 2016</li>
+        <li>Government RERA Authorised Advertiser’s: Home Bazaar Services Pvt Ltd, Registration No HRERA-PKL-REA-3199-2024, CIN U45400MH2013PTC242930.</li>
+    	<li>RERA Project Registration No.: RC/REP/HARERA/GGM/860/592/2024/87</li>
+        <li><b>Site Address:</b> Max Estate 361: Sub-Tehsil, 1, Harsaru, Sector 36A, Gurugram, Haryana 122004</li>
+        <li><b>Contact Us:</b> Corporate Office: Max Towers, Sector-16B, Noida</li>
+	</ul>
+<b>Disclaimer:</b>
+We are an authorised marketing partner for this project. Provided content is given by respective owners and this website and content is for information purpose only and it does not constitute any offer to avail for any services. Prices mentioned are subject to change without prior notice and properties mentioned are subject to availability. You can expect a call, SMS or emails on details registered with us.<hr>
+<p style="text-align:center;">Copyright &copy; 2026 | <a aria-label="About Terms & Conditions" href="terms-conditions.php">Terms & Conditions</a> | <a aria-label="About Privacy Policy" href="privacy-policy.php">Privacy Policy</a> | <a aria-label="About Cookies Policy" href="cookies-policy.php">Cookies Policy</a> </p>
+</small>
+</section></main>
+
+<style>
+.action-icon img{ height: 22px; width: auto; margin-right: 7px; }
+.ft-main{ display:flex; justify-content:center; align-items:center; width:100%; padding:0% 2%; font-size:14px; }
+.ft-left{ width:82%; }
+.ft-right{ width:16%; }
+.acceptcookies{ font-size: 16px; padding: 3px 30px; }
+@media (min-width: 1920px) and (max-width: 2560px)  {
+    .ft-main{ font-size:19px; }
+    }
+@media (min-width: 2561px) and (max-width: 5120px)  {
+    .ft-main{ font-size:36px; }
+    }
+@media (min-width: 1920px) and (max-width: 5120px)  {
+    .acceptcookies{ font-size: 46px; padding: 3px 30px; }
+    }
+@media (min-width: 320px) and (max-width: 767px)  {
+    .ft-main{ display:block; }
+    .ft-left{ width:100%; text-align:justify; }
+    .ft-right{ width:100%; }
+    .acceptcookies{ margin-top: 10px; margin-left:0px!important; }
+     }
+</style>
+     <!--exit modal 1 start -->
+     <div class="modal fade lightbox" id="enqModal233"  role="dialog" aria-hidden="true"></div>
+     <!--Exit modal 1 end-->
+     <!--exit modal 2 start -->
+     <div class="modal fade lightbox2 abc"></div> 
+    <!--exit modal 2 end -->
+            <div class="micro-side text-center">
+                <div class="og-section pb-2">
+                    <ul class="nav nav-fill og-block">
+                        <li class="new-pdf nav-item enqModal" data-form="lg" data-title="Download Price Sheet" data-btn="Download Now" data-enquiry="Download Price Sheet Top Corner Desktop" data-toggle="modal" data-target="#enqModal"><div><img src="assets/img/newpdfimg.png" alt="PDF img" class="bounce pdf-img"></div><div>Download<br>Price Sheet</div></li>
+                        <li class="nav-item driftc d-flex-center-items"> <a href="tel:9999870220" class="textcolor d-flex-center-items"><i class="mi mi-call"></i> 9999870220</a></li>   
+                    </ul>
+                    <button
+                        class="btn-danger pulse-shadow btn btn-sm btn-info micro-form-btn-sm effectScale enqModal mt-1"
+                        data-form="sm"
+                        data-title="Instant Call Back"
+                        data-btn="Request Call Now"
+                        data-enquiry="Request Call Back"
+                        data-toggle="modal"
+                        data-target="#enqModal"
+                    >
+                        <span class="mi mi-call action-icon"></span> Instant Call Back</button>
+                </div>
+                <span class="d-block form-heading font-weight-bold mr-tb-text">Get The Best Quote</span>
+                <form action="https://microsite.fanmrealty.com/live/lead-callback-v25.php" method="post" class="form-side" id="pardotForm" class="pardotForm">
+                    <input type="text" id="fname" placeholder="Name" name="fname" class="form-control rounded-0 micro-form-field" required>
+                    <div class="error" id="name_error"></div>
+                    <input type="email" id="email" placeholder="Email Address(Optional)" name="email" class="form-control rounded-0 micro-form-field">
+                    <div class="error" id="address_error"></div>
+                    <select class="my_country_name form-control rounded-0 micro-form-field" aria-label="countryname" name="country_name">
+                        <option data-countrycode="IN" value="India" data-contry_code="91">India (+91)</option>
+                        <option data-countrycode="AF" value="Afghanistan" data-contry_code="93">Afghanistan (+93)</option>
+                        <option data-countrycode="AL" value="Albania" data-contry_code="355">Albania (+355)</option>
+                        <option data-countrycode="DZ" value="Algeria" data-contry_code="213">Algeria (+213)</option>
+                        <option data-countrycode="AS" value="American Samoa" data-contry_code="1-684">American Samoa (+1-684)</option>
+                    </select>
+                    <input type="hidden" value="+91"  name="country_code" id="country_code" class="operations-supplierCapacity" />
+                   
+                    <input name="modal_my_mobile2" class="form-control numeric rounded-0 micro-form-field" id="modal_my_mobile" pattern="^[_0-9]+" placeholder="Phone number" type="text" value="" required="required" data-error="Please enter your valid mobile number" onkeyup="if (/\D/g.test(this.value)) this.value = this.value.replace(/\D/g,'')">
+        			<input type="hidden" id="first_name" name="first_name">
+        		    <input type="hidden" id="last_name" name="last_name">
+                    <input type="hidden" id="builder" name="builder" value="Max Estates">
+                    <input type="hidden" id="project" name="project" value="Max Estate 361">
+                    <input type=hidden id="lead_source" name="lead_source" value="Microsite">
+                    <input type="hidden" name=ip id="ip" value="14.97.211.242">
+                    <input type="hidden" name=mobile id="modal_dg_mobile2" class="mobileconcat">
+                    <input type="hidden" id="enquiredfor" name="enquiredfor" value="Pre Register here for Best Offers">
+                    <input type="hidden" name="home_url" value="https://www.maxestate361gurugram.com/assets/img/floorplan/2bhk-846-915.webp">
+                    <input type="hidden" name="gclid" id="gclid" value="">
+                    <input type="hidden" name="utm_source" id="utm_source" value="">
+            <input type="hidden" name="utm_medium" id="utm_medium" value="">
+            <input type="hidden" name="utm_campaign" id="utm_campaign" value="">
+            <input type="hidden" name="utm_term" id="utm_term" value="">
+            <input type="hidden" name="utm_physical_location" id="utm_physical_location" value="">
+                <input type="hidden" name="utm_tragetid" id="utm_tragetid" value="">
+                <input type="hidden" name="utm_target" id="utm_target" value="">
+                <input type="hidden" name="utm_placement" id="utm_placement" value="">
+                <input type="hidden" name="utm_adposition" id="utm_adposition" value="">
+                <input type="hidden" id="organization_name" name="organization_name">
+                    <input type="submit" value="Get It Now"  class="btn btn-info micro-form-btn effetMoveGradient submitBtn"  id="submitBtn">
+                <div><span class="errorMessage" id="errorMessage2" style="color: red; margin-left: 10px;"></span></div>
+                </form>
+                
+            </div>
+                       <div class="modal fade" id="enqModal"  role="dialog" aria-label="Connect with Us" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered enq-modal" role="document">
+                    <div class="modal-content popmodal">
+                        <div class="modal-body text-center">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <!--<div class="modal-head d-none"><span class="modal-title"> Download Brochure</span></div>-->
+                            <div class="d-flex">
+                                <div class="flex-fill align-self-center flex-shrink-1 modal-highlight-bg d-none d-lg-block popbox-left">
+                                    <div class="poplogo-box"><span class="popup-logo"><img alt="Max Estate 361 Logo" src="./assets/img/logo.svg" class="poplogo"></span></div>
+                                    <div class="popleftsec">
+                                        <div class="popleftinner">
+                                            <span class="modal-highlight-title">We Promise</span>
+                                            <ul class="modal-highlight">
+                                                <li><i class="mi mi-support-call"></i><span>Instant Call Back</span></li>
+                                                <li><i class="mi mi-support-visit"></i><span>Free Site Visit</span></li>
+                                                <li><i class="mi mi-support-price"></i><span>Unmatched Price</span></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex-fill popbox-right">
+                                    <div class="modal-head d-none"><span class="modal-title"> Download Brochure</span></div>
+                                    <div class="poplogo-box desktop"><span class="popup-logo"><img alt="Max Estate 361 Logo" src="./assets/img/logo.svg" class="poplogo logo"></span></div>
+                                    <span class="modal-title-secondary text-left"> Register here and Avail the <span class="text-danger">Best Offers!!</span></span>
+                                    <form action="https://microsite.fanmrealty.com/live/lead-callback-v25.php" method="post" class="form-side" id="pardotForm" class="pardotForm">
+                                    <input type="text" id="fname" placeholder="Name" name="fname" class="form-control rounded-0 micro-form-field" required>
+                                    <div class="error" id="name_error"></div>
+                                    <input type="email" id="email" placeholder="Email Address(Optional)" name="email" class="form-control rounded-0 micro-form-field">
+                                    <div class="error" id="address_error"></div>
+                                    <select class="my_country_name form-control rounded-0 micro-form-field" aria-label="countryname" name="country_name">
+                               <option data-countrycode="IN" value="India" data-contry_code="91">India (+91)</option>
+                                        <option data-countrycode="AF" value="Afghanistan" data-contry_code="93">Afghanistan (+93)</option>
+                                        <option data-countrycode="AL" value="Albania" data-contry_code="355">Albania (+355)</option>
+                                        <option data-countrycode="DZ" value="Algeria" data-contry_code="213">Algeria (+213)</option>
+                                        <option data-countrycode="AS" value="American Samoa" data-contry_code="1-684">American Samoa (+1-684)</option>
+                                       
+                                    </select>
+                                    <input type="hidden" value="91" name="country_code" id="country_code" class="operations-supplierCapacity" />
+                                    <input name="modal_my_mobile2" class="form-control numeric rounded-0 micro-form-field" id="modal_my_mobile" pattern="^[_0-9]+" placeholder="Phone number" type="text" value="" required="required" data-error="Please enter your valid mobile number" onkeyup="if (/\D/g.test(this.value)) this.value = this.value.replace(/\D/g,'')">
+                                    <!--<input type="hidden" name="my_country_name" id="country" value="India">-->
+    		                    	<input type="hidden" id="first_name" name="first_name">
+    		                        <input type="hidden" id="last_name" name="last_name">
+                                    <input type="hidden" id="builder" name="builder" value="Max Estates">
+                                    <input type="hidden" id="project" name="project" value="Max Estate 361">
+                                    <input type=hidden id="lead_source" name="lead_source" value="Microsite">
+                                    <input type="hidden" name=ip id="ip" value="14.97.211.242">
+                                    <input type="hidden" name=mobile id="modal_dg_mobile" class="mobileconcat">
+                                    <input type="hidden" id="enquiredfor" name="enquiredfor" value="Get Instant Call Back Home Page Pop Up">
+                                    <input type="hidden" name="home_url" value="https://www.maxestate361gurugram.com/assets/img/floorplan/2bhk-846-915.webp">
+                                    <input type="hidden" name="gclid" id="gclid" value="">
+                                    <input type="hidden" name="utm_source" id="utm_source" value="">
+            <input type="hidden" name="utm_medium" id="utm_medium" value="">
+            <input type="hidden" name="utm_campaign" id="utm_campaign" value="">
+            <input type="hidden" name="utm_term" id="utm_term" value="">
+            <input type="hidden" name="utm_physical_location" id="utm_physical_location" value="">
+                <input type="hidden" name="utm_tragetid" id="utm_tragetid" value="">
+                <input type="hidden" name="utm_target" id="utm_target" value="">
+                <input type="hidden" name="utm_placement" id="utm_placement" value="">
+                <input type="hidden" name="utm_adposition" id="utm_adposition" value="">
+                <input type="hidden" id="organization_name" name="organization_name">
+                <button type="submit" class="btn micro-form-btn submitBtn" id="submitBtn" style="margin-top:10px;margin-bottom:10px">Get Instant Call Back</button>
+                 
+                <div><span class="errorMessage" id="errorMessage2" style="color: red; margin-left: 10px;"></span></div>
+                </form>
+                
+               </div>
+                                  
+               </div>
+        <!--Privacy Policy LINK-->
+        <!--<small class="modal-call-btn bg-white">-->
+    <!--CONTACT NO-->
+            <a href="tel:9999870220" aria-label="Contact No." class="popcallbtn modal-call-btn d-block" style="padding: 0.5rem 1rem;"><i class="mi mi-call"></i> 9999870220</a>
+           
+    <!--</small> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!--DOWNLOAD BROCHURE BUTTON START-->
+            <div class="download-brochure">
+                <div class="desk_brochure">
+                    <a
+                        class="enqModal"
+                        href="#"
+                        data-form="md"
+                        data-title="Download brochure"
+                        data-btn="Download now"
+                        data-enquiry="Download Brochure Sticky Desktop"
+                        data-redirect="brochure"
+                        data-redirect-file="brochure.pdf"
+                        data-toggle="modal"
+                        data-target="#enqModal">
+                        <img
+  src="./assets/img/brochure_icon_n1.webp"
+  alt="Download brochure"
+  width="48"
+  height="48"
+  loading="lazy"
+  decoding="async"
+  style="max-width:100%;height:auto;"
+>
+
+                    </a>
+                </div>
+                <div class="mob_brochure">
+                    <a
+                        class="enqModal"
+                        href="#"
+                        data-form="md"
+                        data-title="Download brochure"
+                        data-btn="Download now"
+                        data-enquiry="Download Brochure Sticky Mobile"
+                        data-redirect="brochure"
+                        data-redirect-file="brochure.pdf"
+                        data-toggle="modal"
+                        data-target="#enqModal">
+                        <img
+  src="./assets/img/brochure_icon_mob_n1.webp"
+  alt="Download brochure"
+  width="83"
+  height="252"
+  loading="lazy"
+  decoding="async"
+  style="max-width:100%;height:auto;"
+>
+                    </a>
+                </div>
+            </div>
+         <!--COOKIES CODE START-->
+            <style>
+                .cookiealert {position: fixed;bottom: 0;left: 0;width: 100%;margin: 0 !important;z-index: 9999;opacity: 0;visibility: hidden;border-radius: 0;transform: translateY(100%);transition: all 500ms ease-out;color: #ecf0f1;background: #212327;}
+                .cookiealert.show {opacity: 1;visibility: visible;transform: translateY(0%);transition-delay: 1000ms;}
+                .cookiealert a {text-decoration: underline}
+                .cookiealert .acceptcookies {margin-left: 10px;vertical-align: baseline;}
+            </style>
+            <script>
+                (function () {
+                    "use strict";
+               
+                    var cookieAlert = document.querySelector(".cookiealert");
+                    var acceptCookies = document.querySelector(".acceptcookies");
+               
+                    if (!cookieAlert) {
+                       return;
+                    }
+               
+                    cookieAlert.offsetHeight;
+               
+                    // Show the alert if we cant find the "acceptCookies" cookie
+                    if (!getCookie("acceptCookies")) {
+                        cookieAlert.classList.add("show");
+                    }
+               
+                    // When clicking on the agree button, create a 1 year
+                    // cookie to remember user's choice and close the banner
+                    acceptCookies.addEventListener("click", function () {
+                        setCookie("acceptCookies", true, 365);
+                        cookieAlert.classList.remove("show");
+               
+                        // dispatch the accept event
+                        window.dispatchEvent(new Event("cookieAlertAccept"))
+                    });
+               
+                    // Cookie functions from w3schools
+                    function setCookie(cname, cvalue, exdays) {
+                        var d = new Date();
+                        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                        var expires = "expires=" + d.toUTCString();
+                        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+                    }
+               
+                    function getCookie(cname) {
+                        var name = cname + "=";
+                        var decodedCookie = decodeURIComponent(document.cookie);
+                        var ca = decodedCookie.split(';');
+                        for (var i = 0; i < ca.length; i++) {
+                            var c = ca[i];
+                            while (c.charAt(0) === ' ') {
+                                c = c.substring(1);
+                            }
+                            if (c.indexOf(name) === 0) {
+                                return c.substring(name.length, c.length);
+                            }
+                        }
+                        return "";
+                    }
+                })();
+            </script>
+            <!--COOKIES CODE END-->
+       <!-- Start of Async Drift Code --> 
+        <script  defer="defer">
+            var executed = true;
+            var h1tag = "Max Estate 361";
+            window.onscroll = function () {
+            var addressSection = document.querySelector('#address_section');
+            if (executed && addressSection) { // <- Added addressSection check
+                addressSection.insertAdjacentHTML('afterbegin', `
+                    <span class="section-link" id="location"></span> 
+                    <div class="row">
+        <div class="col-md-8" style="padding-left: 0;"><h2 class="head text-capitalize">${h1tag} Location Map and Connectivity</h2></div>
+        <div class="col-md-4"><button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale float-lg-right mx-sm-auto  d-none d-lg-block" data-form="lg" data-title="Get Directions" data-btn="Send Now" data-enquiry="Get Directions" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Get Directions</button></div></div>
+                    <div class="row mb-3"> 
+                        <div class="col-md-5 col-12 lmap-div text-center location padding0"> 
+                            <a href="#" class="text-decoration-none enqModal" aria-label="Download Location Map" data-form="lg" data-title="Download Location Map" data-btn="Download now" data-enquiry="View Location Map" data-toggle="modal" data-target="#enqModal"> 
+                                <div class="at-property-item mb-2"> 
+                                    <div class="at-property-img location-map lazyloaded" data-expand="-1"> 
+                                        <img alt="Location map" class="shadow-sm border border-grey lazyautosizes ls-is-cached lazyloaded ls-inview" src="./assets/img/locationmap.webp"> 
+                                        <div class="at-property-overlayer"></div> 
+                                        <span class="at-property-btn">Download Location Map</span> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </div> 
+                        <div class="col-md-7 col-12 padding0 p-left-10">
+                        <div class="row"> 
+                        <div class="col loc-pointer loc-pointer-first"><div class="loc-text"><i class="mi mi-loc-list-2 color-primary loc-icon"></i> <span>Upcoming ISBT </span> </div><span class="text-right">1 min</span></div> 
+                        <div class="col loc-pointer"><div class="loc-text"><i class="mi mi-loc-list-2 color-primary loc-icon"></i> <span>Southern Peripheral Road  </span></div> <span class="text-right">10 mins</span></div> 
+                        <div class="col loc-pointer"><div class="loc-text"><i class="mi mi-loc-list-2 color-primary loc-icon"></i> <span>Gurgaon Railway Station </span> </div><span class="text-right">15 mins</span></div> 
+                    </div> 
+                        </div>
+                    </div> 
+                    <div class="col-12 text-center">
+        <p></p>
+            <button class="btn btn-info micro-form-btn enqModal effetMoveGradient effectScale float-lg-right mx-sm-auto d-lg-none" data-form="lg" data-title="Get Directions" data-btn="Send Now" data-enquiry="Get Directions" data-redirect="floorplan" data-toggle="modal" data-target="#enqModal">Get Directions</button>
+        </div>
+                `);
+                   executed = false;
+               }
+            };
+        </script>
+       <!-- Onload start --> 
+        <script src="assets/js/jquery.min.js"  ></script> 
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $("input[name='modal_my_mobile2']").focusout(function(){
+                $(".mobileconcat").val('+'+$("#country_code").val()+$(this).val()); 
+            });
+            
+            // on country name field change
+            $("select[name='country_name']").focusout(function(){
+                $(".mobileconcat").val('+'+$("#country_code").val()+$(this).siblings("input[name='modal_my_mobile2']").val()); 
+            });
+            $('select.my_country_name').change(function() {
+                var capacityValue = $("option:selected", this).data('contry_code');
+                    $('.operations-supplierCapacity').val(capacityValue);
+            });
+            // Split Form Name into First name and Last Name
+            $("input[name='fname']").focusout(function(){
+                var name = $(this).val();
+                var first_name = name.substr(0,name.indexOf(' '));
+                var last_name = name.substr(name.indexOf(' ')+1);
+                $("input[name='first_name']").val(first_name);
+                $("input[name='last_name']").val(last_name);
+            });
+        });  
+        </script>
+        <!-- Onload end --> 
+       
+    <script>
+        var c, a = window.location.pathname,
+d = a.substring(a.lastIndexOf("/") + 1);
+if (d !== "thank-you.php") {
+    
+    function addEvent(obj, evt, fn) {
+        if (obj.addEventListener) {
+            obj.addEventListener(evt, fn, false);
+        } else if (obj.attachEvent) {
+            obj.attachEvent("on" + evt, fn);
+        }
+    }
+    
+    addEvent(document, 'mouseout', function(evt) {
+        
+        let windowHeight = window.innerHeight;
+        if (evt.toElement == null && evt.relatedTarget == null && (evt.y < 0 || evt.y > windowHeight)) {
+            
+            if(sessionStorage["PopupShown"] != 'yes' && $('#enqModal').css('display') == 'none'){ 
+                
+                sessionStorage["PopupShown"] = 'yes';
+               $("#enqModal .modal-head").removeClass("d-none");
+                    $("#enqModal .modal-call-btn").addClass("d-none");
+                    $("#enqModal .modal-title").text("Virtual Site Visit"),
+                    $("#enqModal .micro-form-btn").text("Start Tour"),
+                    $("#enqModal #enquiredfor").val("Virtual Tour Exit intent popup"),
+                    $('#enqModal').modal('show');
+    
+            }
+        };
+        
+    });
+    
+    sessionStorage.clear();
+    var available;
+    var percentage_of_page;
+    var half_screen;
+    var height;
+        $(window).scroll(function (e) {
+            available = $(document).height();
+            percentage_of_page = 0.5;
+            half_screen = available * percentage_of_page;
+            height = $(window).scrollTop();
+            // alert(height)
+            if ( height > half_screen ) {
+                if(sessionStorage["PopupShown1"] != 'yes1' && $('#enqModal').css('display') == 'none'){
+                     sessionStorage["PopupShown1"] = 'yes1';
+                     sessionStorage["PopupShown"] = 'yes';
+                     $("#enqModal .modal-head").removeClass("d-none");
+                    $("#enqModal .modal-call-btn").addClass("d-none");
+                    $("#enqModal .modal-title").text("Virtual Site Visit"),
+                    $("#enqModal .micro-form-btn").text("Start Tour"),
+                    $("#enqModal #enquiredfor").val("Virtual Tour Exit intent popup on scroll"),
+                    $('#enqModal').modal('show');
+                }
+            } else {
+                $('.lightbox').hide();
+            }
+        });
+}
+ </script>
+ 
+
+<script src="./assets/js/chatv25.js" defer ></script>
+
+<script type="text/javascript">
+    var chatbotApiInput = {
+        home_url: "https://www.maxestate361gurugram.com/assets/img/floorplan/2bhk-846-915.webp",
+        gclid: "",
+        utm_source: "",
+        utm_medium: "",
+        utm_campaign: "",
+        utm_term: "",
+        utm_physical_location: "",
+        utm_tragetid: "",
+        utm_target: "",
+        utm_placement: "",
+        utm_adposition: " ",
+        fbclid: "",
+        builder: "Max Estates",
+        project: "Max Estate 361",
+        source: "Microsite Chat Icon",
+        lead_source: "chatbot",
+        ip: "14.97.211.242",
+        imagepath :"/assets/img/chatbot/",
+        leadcoversion: "hbpushleads",
+        desktoptimer: 10000,
+        mobiletimer: 10000,
+        device: "Desktop",
+    };
+    var timer = 0;
+</script> 
+
+
+
+<script>
+    $('form#pardotForm').submit(function(e){
+    $(this).children('button[type=submit]').attr('disabled', 'disabled');
+    $(this).children('input[type=submit]').attr('disabled', 'disabled');
+});
+
+</script>
+
+
+<script>
+function bindFormSubmit() {
+
+  let fpPromise = null; // lazy initialized
+
+  $('form#pardotForm').off('submit').on('submit', function (e) {
+    e.preventDefault();
+
+    const $form = $(this);
+    const $submitBtn = $form.find('button[type="submit"], input[type="submit"]');
+    const $errorSpan = $form.find('.errorMessage');
+
+    $submitBtn.prop('disabled', true);
+    $errorSpan.text('');
+    clearTimeout($errorSpan.data('timeoutId'));
+
+    $.ajax({
+      url: 'ipcheck.php',
+      type: 'GET',
+      dataType: 'json',
+
+      success: function (data) {
+        if (!data.status) {
+          showError(data.message);
+          return;
+        }
+
+        // 🔹 Lazy-load FingerprintJS ONLY when needed
+        if (!fpPromise) {
+          fpPromise = import('https://fpjscdn.net/v3/rmevazJvk6HdBPJpRXuX')
+            .then(FingerprintJS => FingerprintJS.load({ region: 'ap' }));
+        }
+
+        fpPromise
+          .then(fp => fp.get())
+          .then(result => {
+            submitWithDeviceId(result.visitorId);
+          })
+          .catch(err => {
+            console.error('FingerprintJS error:', err);
+            submitWithDeviceId('fallback-' + Date.now());
+          });
+      },
+
+      error: function () {
+        showError('An unexpected error occurred.');
+      }
+    });
+
+    function submitWithDeviceId(deviceId) {
+      let $deviceIdField = $form.find('input[name="device_id"]');
+
+      if ($deviceIdField.length === 0) {
+        $form.append('<input type="hidden" name="device_id">');
+        $deviceIdField = $form.find('input[name="device_id"]');
+      }
+
+      $deviceIdField.val(deviceId);
+
+      console.log('Device ID:', deviceId);
+
+      // Submit safely
+      $form.off('submit');
+      $form.submit();
+    }
+
+    function showError(message) {
+      $errorSpan.text(message);
+
+      const timeoutId = setTimeout(() => {
+        $errorSpan.fadeOut(400, function () {
+          $(this).text('').show();
+        });
+      }, 5000);
+
+      $errorSpan.data('timeoutId', timeoutId);
+      $submitBtn.prop('disabled', false);
+    }
+  });
+}
+
+
+
+// Bind when document is ready
+$(document).ready(function() {
+    bindFormSubmit();
+});
+
+// Also bind when coming back from bfcache
+$(window).on('pageshow', function(event) {
+    if (event.originalEvent.persisted) {
+        bindFormSubmit();
+    }
+});
+</script>
+
+<script>
+$(document).ready(function() {
+  $('#blockimg').removeClass('blockimg');
+});
+</script>
+
+<script>
+(function () {
+
+  let initialized = false;
+
+  function initCountrySelect() {
+    if (initialized) return;
+    initialized = true;
+
+    const countries = [
+  { code: "AF", name: "Afghanistan", dial: "93" },
+  { code: "AL", name: "Albania", dial: "355" },
+  { code: "DZ", name: "Algeria", dial: "213" },
+  { code: "AS", name: "American Samoa", dial: "1-684" },
+  { code: "AD", name: "Andorra", dial: "376" },
+  { code: "AO", name: "Angola", dial: "244" },
+  { code: "AI", name: "Anguilla", dial: "1-264" },
+  { code: "AQ", name: "Antarctica", dial: "672" },
+  { code: "AG", name: "Antigua and Barbuda", dial: "1-268" },
+  { code: "AR", name: "Argentina", dial: "54" },
+  { code: "AM", name: "Armenia", dial: "374" },
+  { code: "AW", name: "Aruba", dial: "297" },
+  { code: "AU", name: "Australia", dial: "61" },
+  { code: "AT", name: "Austria", dial: "43" },
+  { code: "AZ", name: "Azerbaijan", dial: "994" },
+  { code: "BS", name: "Bahamas", dial: "1-242" },
+  { code: "BH", name: "Bahrain", dial: "973" },
+  { code: "BD", name: "Bangladesh", dial: "880" },
+  { code: "BB", name: "Barbados", dial: "1-246" },
+  { code: "BY", name: "Belarus", dial: "375" },
+  { code: "BE", name: "Belgium", dial: "32" },
+  { code: "BZ", name: "Belize", dial: "501" },
+  { code: "BJ", name: "Benin", dial: "229" },
+  { code: "BM", name: "Bermuda", dial: "1-441" },
+  { code: "BT", name: "Bhutan", dial: "975" },
+  { code: "BO", name: "Bolivia", dial: "591" },
+  { code: "BA", name: "Bosnia and Herzegowina", dial: "387" },
+  { code: "BW", name: "Botswana", dial: "267" },
+  { code: "BV", name: "Bouvet Island", dial: "47" },
+  { code: "BR", name: "Brazil", dial: "55" },
+  { code: "IO", name: "British Indian Ocean Territory", dial: "246" },
+  { code: "BN", name: "Brunei Darussalam", dial: "673" },
+  { code: "BG", name: "Bulgaria", dial: "359" },
+  { code: "BF", name: "Burkina Faso", dial: "226" },
+  { code: "BI", name: "Burundi", dial: "257" },
+  { code: "KH", name: "Cambodia", dial: "855" },
+  { code: "CM", name: "Cameroon", dial: "237" },
+  { code: "CA", name: "Canada", dial: "1" },
+  { code: "CV", name: "Cape Verde", dial: "238" },
+  { code: "KY", name: "Cayman Islands", dial: "1-345" },
+  { code: "CF", name: "Central African Republic", dial: "236" },
+  { code: "TD", name: "Chad", dial: "235" },
+  { code: "CL", name: "Chile", dial: "56" },
+  { code: "CN", name: "China", dial: "86" },
+  { code: "CX", name: "Christmas Island", dial: "61" },
+  { code: "CC", name: "Cocos (Keeling) Islands", dial: "61" },
+  { code: "CO", name: "Colombia", dial: "57" },
+  { code: "KM", name: "Comoros", dial: "269" },
+  { code: "CG", name: "Congo Democratic Republic of", dial: "242" },
+  { code: "CK", name: "Cook Islands", dial: "682" },
+  { code: "CR", name: "Costa Rica", dial: "506" },
+  { code: "CI", name: "Cote D'Ivoire", dial: "225" },
+  { code: "HR", name: "Croatia", dial: "385" },
+  { code: "CU", name: "Cuba", dial: "53" },
+  { code: "CY", name: "Cyprus", dial: "357" },
+  { code: "CZ", name: "Czech Republic", dial: "420" },
+  { code: "DK", name: "Denmark", dial: "45" },
+  { code: "DJ", name: "Djibouti", dial: "253" },
+  { code: "DM", name: "Dominica", dial: "1-767" },
+  { code: "DO", name: "Dominican Republic", dial: "1-809" },
+  { code: "TL", name: "Timor-Leste", dial: "670" },
+  { code: "EC", name: "Ecuador", dial: "593" },
+  { code: "EG", name: "Egypt", dial: "20" },
+  { code: "SV", name: "El Salvador", dial: "503" },
+  { code: "GQ", name: "Equatorial Guinea", dial: "240" },
+  { code: "ER", name: "Eritrea", dial: "291" },
+  { code: "EE", name: "Estonia", dial: "372" },
+  { code: "ET", name: "Ethiopia", dial: "251" },
+  { code: "FK", name: "Falkland Islands (Malvinas)", dial: "500" },
+  { code: "FO", name: "Faroe Islands", dial: "298" },
+  { code: "FJ", name: "Fiji", dial: "679" },
+  { code: "FI", name: "Finland", dial: "358" },
+  { code: "FR", name: "France", dial: "33" },
+  { code: "GF", name: "French Guiana", dial: "594" },
+  { code: "PF", name: "French Polynesia", dial: "689" },
+  { code: "GA", name: "Gabon", dial: "241" },
+  { code: "GM", name: "Gambia", dial: "220" },
+  { code: "GE", name: "Georgia", dial: "995" },
+  { code: "DE", name: "Germany", dial: "49" },
+  { code: "GH", name: "Ghana", dial: "233" },
+  { code: "GI", name: "Gibraltar", dial: "350" },
+  { code: "GR", name: "Greece", dial: "30" },
+  { code: "GL", name: "Greenland", dial: "299" },
+  { code: "GD", name: "Grenada", dial: "1-473" },
+  { code: "GP", name: "Guadeloupe", dial: "590" },
+  { code: "GU", name: "Guam", dial: "1-671" },
+  { code: "GT", name: "Guatemala", dial: "502" },
+  { code: "GN", name: "Guinea", dial: "224" },
+  { code: "GW", name: "Guinea-bissau", dial: "245" },
+  { code: "GY", name: "Guyana", dial: "592" },
+  { code: "HT", name: "Haiti", dial: "509" },
+  { code: "HM", name: "Heard Island and McDonald Islands", dial: "011" },
+  { code: "HN", name: "Honduras", dial: "504" },
+  { code: "HK", name: "Hong Kong", dial: "852" },
+  { code: "HU", name: "Hungary", dial: "36" },
+  { code: "IS", name: "Iceland", dial: "354" },
+  { code: "IN", name: "India", dial: "91" },
+  { code: "ID", name: "Indonesia", dial: "62" },
+  { code: "IR", name: "Iran (Islamic Republic of)", dial: "98" },
+  { code: "IQ", name: "Iraq", dial: "964" },
+  { code: "IE", name: "Ireland", dial: "353" },
+  { code: "IL", name: "Israel", dial: "972" },
+  { code: "IT", name: "Italy", dial: "39" },
+  { code: "JM", name: "Jamaica", dial: "1-876" },
+  { code: "JP", name: "Japan", dial: "81" },
+  { code: "JO", name: "Jordan", dial: "962" },
+  { code: "KZ", name: "Kazakhstan", dial: "7" },
+  { code: "KE", name: "Kenya", dial: "254" },
+  { code: "KI", name: "Kiribati", dial: "686" },
+  { code: "KP", name: "Korea, Democratic People's Republic of", dial: "850" },
+  { code: "KR", name: "South Korea", dial: "82" },
+  { code: "KW", name: "Kuwait", dial: "965" },
+  { code: "KG", name: "Kyrgyzstan", dial: "996" },
+  { code: "LA", name: "Lao People's Democratic Republic", dial: "856" },
+  { code: "LV", name: "Latvia", dial: "371" },
+  { code: "LB", name: "Lebanon", dial: "961" },
+  { code: "LS", name: "Lesotho", dial: "266" },
+  { code: "LR", name: "Liberia", dial: "231" },
+  { code: "LY", name: "Libya", dial: "218" },
+  { code: "LI", name: "Liechtenstein", dial: "423" },
+  { code: "LT", name: "Lithuania", dial: "370" },
+  { code: "LU", name: "Luxembourg", dial: "352" },
+  { code: "MO", name: "Macao", dial: "853" },
+  { code: "MK", name: "Macedonia", dial: "389" },
+  { code: "MG", name: "Madagascar", dial: "261" },
+  { code: "MW", name: "Malawi", dial: "265" },
+  { code: "MY", name: "Malaysia", dial: "60" },
+  { code: "MV", name: "Maldives", dial: "960" },
+  { code: "ML", name: "Mali", dial: "223" },
+  { code: "MT", name: "Malta", dial: "356" },
+  { code: "MH", name: "Marshall Islands", dial: "692" },
+  { code: "MQ", name: "Martinique", dial: "596" },
+  { code: "MR", name: "Mauritania", dial: "222" },
+  { code: "MU", name: "Mauritius", dial: "230" },
+  { code: "YT", name: "Mayotte", dial: "262" },
+  { code: "MX", name: "Mexico", dial: "52" },
+  { code: "FM", name: "Micronesia", dial: "691" },
+  { code: "MD", name: "Moldova", dial: "373" },
+  { code: "MC", name: "Monaco", dial: "377" },
+  { code: "MN", name: "Mongolia", dial: "976" },
+  { code: "MS", name: "Montserrat", dial: "1-664" },
+  { code: "MA", name: "Morocco", dial: "212" },
+  { code: "MZ", name: "Mozambique", dial: "258" },
+  { code: "MM", name: "Myanmar", dial: "95" },
+  { code: "NA", name: "Namibia", dial: "264" },
+  { code: "NR", name: "Nauru", dial: "674" },
+  { code: "NP", name: "Nepal", dial: "977" },
+  { code: "NL", name: "Netherlands", dial: "31" },
+  { code: "AN", name: "Netherlands Antilles", dial: "599" },
+  { code: "NC", name: "New Caledonia", dial: "687" },
+  { code: "NZ", name: "New Zealand", dial: "64" },
+  { code: "NI", name: "Nicaragua", dial: "505" },
+  { code: "NE", name: "Niger", dial: "227" },
+  { code: "NG", name: "Nigeria", dial: "234" },
+  { code: "NU", name: "Niue", dial: "683" },
+  { code: "NF", name: "Norfolk Island", dial: "672" },
+  { code: "MP", name: "Northern Mariana Islands", dial: "1-670" },
+  { code: "NO", name: "Norway", dial: "47" },
+  { code: "OM", name: "Oman", dial: "968" },
+  { code: "PK", name: "Pakistan", dial: "92" },
+  { code: "PW", name: "Palau", dial: "680" },
+  { code: "PA", name: "Panama", dial: "507" },
+  { code: "PG", name: "Papua New Guinea", dial: "675" },
+  { code: "PY", name: "Paraguay", dial: "595" },
+  { code: "PE", name: "Peru", dial: "51" },
+  { code: "PH", name: "Philippines", dial: "63" },
+  { code: "PN", name: "Pitcairn", dial: "64" },
+  { code: "PL", name: "Poland", dial: "48" },
+  { code: "PT", name: "Portugal", dial: "351" },
+  { code: "PR", name: "Puerto Rico", dial: "1-787" },
+  { code: "QA", name: "Qatar", dial: "974" },
+  { code: "RE", name: "Reunion", dial: "262" },
+  { code: "RO", name: "Romania", dial: "40" },
+  { code: "RU", name: "Russian Federation", dial: "7" },
+  { code: "RW", name: "Rwanda", dial: "250" },
+  { code: "KN", name: "Saint Kitts and Nevis", dial: "1-869" },
+  { code: "LC", name: "Saint Lucia", dial: "1-758" },
+  { code: "VC", name: "Saint Vincent and the Grenadines", dial: "1-784" },
+  { code: "WS", name: "Samoa", dial: "685" },
+  { code: "SM", name: "San Marino", dial: "378" },
+  { code: "ST", name: "Sao Tome and Principe", dial: "239" },
+  { code: "SA", name: "Saudi Arabia", dial: "966" },
+  { code: "SN", name: "Senegal", dial: "221" },
+  { code: "SC", name: "Seychelles", dial: "248" },
+  { code: "SL", name: "Sierra Leone", dial: "232" },
+  { code: "SG", name: "Singapore", dial: "65" },
+  { code: "SK", name: "Slovakia", dial: "421" },
+  { code: "SI", name: "Slovenia", dial: "386" },
+  { code: "SB", name: "Solomon Islands", dial: "677" },
+  { code: "SO", name: "Somalia", dial: "252" },
+  { code: "ZA", name: "South Africa", dial: "27" },
+  { code: "GS", name: "South Georgia", dial: "500" },
+  { code: "ES", name: "Spain", dial: "34" },
+  { code: "LK", name: "Sri Lanka", dial: "94" },
+  { code: "SH", name: "Saint Helena", dial: "290" },
+  { code: "PM", name: "St. Pierre and Miquelon", dial: "508" },
+  { code: "SD", name: "Sudan", dial: "249" },
+  { code: "SR", name: "Suriname", dial: "597" },
+  { code: "SJ", name: "Svalbard and Jan Mayen Islands", dial: "47" },
+  { code: "SZ", name: "Swaziland", dial: "268" },
+  { code: "SE", name: "Sweden", dial: "46" },
+  { code: "CH", name: "Switzerland", dial: "41" },
+  { code: "SY", name: "Syrian Arab Republic", dial: "963" },
+  { code: "TW", name: "Taiwan", dial: "886" },
+  { code: "TJ", name: "Tajikistan", dial: "992" },
+  { code: "TZ", name: "Tanzania", dial: "255" },
+  { code: "TH", name: "Thailand", dial: "66" },
+  { code: "TG", name: "Togo", dial: "228" },
+  { code: "TK", name: "Tokelau", dial: "690" },
+  { code: "TO", name: "Tonga", dial: "676" },
+  { code: "TT", name: "Trinidad and Tobago", dial: "1-868" },
+  { code: "TN", name: "Tunisia", dial: "216" },
+  { code: "TR", name: "Turkey", dial: "90" },
+  { code: "TM", name: "Turkmenistan", dial: "993" },
+  { code: "TC", name: "Turks and Caicos Islands", dial: "1-649" },
+  { code: "TV", name: "Tuvalu", dial: "688" },
+  { code: "UG", name: "Uganda", dial: "256" },
+  { code: "UA", name: "Ukraine", dial: "380" },
+  { code: "AE", name: "United Arab Emirates", dial: "971" },
+  { code: "GB", name: "United Kingdom", dial: "44" },
+  { code: "US", name: "United States", dial: "1" },
+  { code: "UM", name: "United States Minor Outlying Islands", dial: "246" },
+  { code: "UY", name: "Uruguay", dial: "598" },
+  { code: "UZ", name: "Uzbekistan", dial: "998" },
+  { code: "VU", name: "Vanuatu", dial: "678" },
+  { code: "VA", name: "Vatican City State", dial: "379" },
+  { code: "VE", name: "Venezuela", dial: "58" },
+  { code: "VN", name: "Vietnam", dial: "84" },
+  { code: "VG", name: "Virgin Islands (British)", dial: "1-284" },
+  { code: "VI", name: "Virgin Islands (U.S.)", dial: "1-340" },
+  { code: "WF", name: "Wallis and Futuna Islands", dial: "681" },
+  { code: "EH", name: "Western Sahara", dial: "212" },
+  { code: "YE", name: "Yemen", dial: "967" },
+  { code: "RS", name: "Serbia", dial: "381" },
+  { code: "ZM", name: "Zambia", dial: "260" },
+  { code: "ZW", name: "Zimbabwe", dial: "263" },
+  { code: "AX", name: "Aaland Islands", dial: "358" },
+  { code: "PS", name: "Palestine", dial: "970" },
+  { code: "ME", name: "Montenegro", dial: "382" },
+  { code: "GG", name: "Guernsey", dial: "44-1481" },
+  { code: "IM", name: "Isle of Man", dial: "44-1624" },
+  { code: "JE", name: "Jersey", dial: "44-1534" },
+  { code: "CW", name: "Cura�ao", dial: "599" },
+  { code: "CI", name: "Ivory Coast", dial: "225" },
+  { code: "XK", name: "Kosovo", dial: "383" }
+];
+
+    document.querySelectorAll('.my_country_name').forEach(select => {
+
+      if (select.dataset.loaded === "true") return;
+      select.dataset.loaded = "true";
+
+      // Collect existing option values (avoid duplicates)
+      const existingValues = new Set(
+        Array.from(select.options).map(o => o.value.trim())
+      );
+
+      countries.forEach(c => {
+        if (existingValues.has(c.name)) return; // 🔒 skip existing 5
+
+        const opt = document.createElement("option");
+        opt.value = c.name;
+        opt.textContent = `${c.name} (+${c.dial})`;
+        opt.setAttribute("data-countrycode", c.code);
+        opt.setAttribute("data-contry_code", c.dial);
+        select.appendChild(opt);
+      });
+    });
+
+    removeListeners();
+  }
+
+  function removeListeners() {
+    window.removeEventListener("mousemove", trigger);
+    window.removeEventListener("touchstart", trigger);
+    window.removeEventListener("scroll", trigger);
+    window.removeEventListener("keydown", trigger);
+  }
+
+  function trigger() {
+    initCountrySelect();
+  }
+
+  // Desktop
+  window.addEventListener("mousemove", trigger, { once: true });
+
+  // Mobile
+  window.addEventListener("touchstart", trigger, { once: true });
+
+  // Backup
+  window.addEventListener("scroll", trigger, { once: true });
+  window.addEventListener("keydown", trigger, { once: true });
+
+})();
+</script>
+
+<script defer src="./assets/js/app1_min.js"></script>
+</body>
+</html>
