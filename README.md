@@ -1,20 +1,20 @@
-# Aqva The Reserve Website
+# Aqva Development Website
 
-Aqva The Reserve is a real estate project landing page built for lead generation, project presentation, brochure downloads, pricing enquiries, and site visit requests for **Aqva The Reserve, Sector 5, Sohna / Gurugram**.
+Aqva Development is a real estate landing page created for showcasing premium residential plots in Sector 5, Sohna, Gurugram. The website is built for project presentation, lead generation, brochure downloads, pricing enquiries, and virtual site visit requests.
 
-The website presents project details such as overview, pricing, plot sizes, master plan, amenities, gallery, location connectivity, RERA information, and enquiry forms in a clean conversion-focused layout.
+The website highlights project details such as plot sizes, pricing, master plan, amenities, gallery, location connectivity, RERA information, and enquiry forms in a clean conversion-focused layout.
 
 ## Live Website
 
-[https://aqvathereserve.com/](https://aqvathereserve.com/)
+[http://aqvadevelopments.in/](http://aqvadevelopments.in/)
 
 ## Project Overview
 
-This website is designed for a premium plotted development campaign. The main objective is to help visitors quickly understand the project, view important details, and submit enquiries through multiple lead capture points.
+This website is designed for a premium plotted development campaign by Aqva Development. The main objective is to help visitors explore the project, understand pricing and location benefits, and submit enquiries through multiple lead capture points.
 
 ### Key Website Goals
 
-- Present Aqva The Reserve as a premium plotted development
+- Present Aqva Development as a premium plotted development
 - Generate qualified real estate leads
 - Provide project information in a structured layout
 - Promote brochure downloads and price sheet enquiries
@@ -39,14 +39,15 @@ This website is designed for a premium plotted development campaign. The main ob
 
 ## Project Details Highlighted
 
-- Project Name: Aqva The Reserve
+- Project Name: Aqva Development
 - Location: Sector 5, Sohna / Gurugram, Haryana
 - Development Type: Residential plotted development
-- Plot Sizes: 147 sq. yd. onwards
 - Land Parcel: 5.06 acres
-- Pricing: ₹1.98 Cr onwards
+- Total Plots: 78 premium plots
+- Plot Sizes: 147, 172, and 178 sq. yd.
+- Pricing: ₹1.80 Cr onwards
 - Possession: August 2028
-- Developer Mentioned: Aqva Development / Dreamways Infra Projects Private Limited
+- Developer Mentioned: Dreamways Infra Projects Private Limited
 - Lead Contact: 9999870220
 
 ## Features
@@ -58,8 +59,8 @@ This website is designed for a premium plotted development campaign. The main ob
 - Virtual site visit CTA
 - Project pricing table
 - Amenities showcase
-- Location connectivity highlights
 - Gallery preview
+- Location connectivity highlights
 - Mobile-friendly navigation
 - Terms, Privacy Policy, and Cookies Policy links
 - RERA information and disclaimer area
